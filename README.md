@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Hey! I'm Ori (known online as R C N) A Web Front and back end developer with experience of big-data and site security. Currently learning CSI (Cyber Security Intelligence) and CEO of RickBot.net feel free to chat with me (:
+
 <!--
 **oriapp/oriapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
