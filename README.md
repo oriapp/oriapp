@@ -2,9 +2,7 @@
 
 Hey! I'm Ori (known online as R C N) A Web Front and back end developer with experience of big-data and site security. Currently learning CSI (Cyber Security Intelligence) and CEO of RickBot.net feel free to chat with me (:
 
-![Ori Apps's github stats](https://github-readme-stats.vercel.app/api?username=oriapp&show_icons=true&theme=radical)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriapp&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
+![Ori Apps's github stats](https://github-readme-stats.vercel.app/api?username=oriapp&show_icons=true&theme=tokyonight)
 <br>
 
 <h3> Latest Project </h3>
