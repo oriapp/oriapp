@@ -7,7 +7,7 @@ Hey! I'm Ori (known online as R C N) A Web Front and back end developer with exp
 
 <h3> Latest Project </h3>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oriapp&repo=card-api" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=oriapp&repo=card-api&theme=tokyonight" />
 </a>
 
 
