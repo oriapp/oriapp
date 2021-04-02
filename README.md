@@ -13,7 +13,7 @@ Hey! I'm Ori (known online as R C N) A Web Front and back end developer with exp
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "php"],
+    code: ["Javascript", "Python", "PHP", "Java"],
     askMeAbout: ["web dev", "tech", "app dev", "IT"],
     technologies: {
         mobileApp: ["Android App"],
@@ -34,6 +34,10 @@ const anmol = {
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
+
+<br>
+
+  <img alig src="https://github-profile-trophy.vercel.app/?username=oriapp&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 
 
 ![Ori Apps's github stats](https://github-readme-stats.vercel.app/api?username=oriapp&include_all_commits&show_icons=true&theme=tokyonight)
