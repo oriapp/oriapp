@@ -25,9 +25,9 @@ const oriapp = {
             js: ["node", "express", "SuiteScript"],
             python: ["flask"]
         },
-        devOps: ["AWS", "Docker🐳", "Nginx"],
+        devOps: ["AWS", "Docker🐳", "Nginx", "redis"],
         databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp", "discord.js", "discord.py"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Networking and to pass the CCNA exam",
