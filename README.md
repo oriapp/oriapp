@@ -2,6 +2,8 @@
 
 Hey! I'm Ori (known online as R C N) A Web Front and back end developer with experience of big-data and site security. Currently learning CSI (Cyber Security Intelligence) and CEO of RickBot.net feel free to chat with me (:
 
+* Open source developer
+
 <hr>
 
 
