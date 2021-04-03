@@ -7,18 +7,6 @@ Hey! I'm Ori (known online as R C N) A Web Front and back end developer with exp
 <hr>
 
 
-### Spotify Playing 🎧
-
-<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0dp39s47id0daot408xhnrn0g) -->
-
-<p align="center">
-  <a href="https://open.spotify.com/user/0dp39s47id0daot408xhnrn0g">
-    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
-    <img src="https://andyruwruw.vercel.app/api/now-playing">
-  </a>
-</p>
-
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -65,6 +53,18 @@ const oriapp = {
 🌙 Night      319 commits    ████████░░░░░░░░░░░░░░░░░   33.23%
 
 ```
+
+
+### I really love music 🎧
+
+<!-- [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/0dp39s47id0daot408xhnrn0g) -->
+
+<p align="center">
+  <a href="https://open.spotify.com/user/0dp39s47id0daot408xhnrn0g">
+    <!-- Music bars move to the beat and are colored based on the track's happiness, danceability and energy! -->
+    <img src="https://andyruwruw.vercel.app/api/now-playing">
+  </a>
+</p>
 
 <hr>
 
