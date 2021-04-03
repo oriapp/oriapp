@@ -19,4 +19,4 @@ const yearProgress = `\
 ---
 
 `
-console.log(readme)
+console.log(yearProgress)
