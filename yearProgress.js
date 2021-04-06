@@ -16,7 +16,6 @@ function generateProgressBar() {
 
 const yearProgress = `\
 ⏳ **Year Progress** ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} % as on ⏰ ${new Date().getDate()+'-'+(new Date().getMonth()+1)+'-'+new Date().getFullYear()+'.'}
----
 
 `
 console.log(yearProgress)
