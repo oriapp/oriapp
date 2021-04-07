@@ -37,7 +37,6 @@ const oriapp = {
 <br>
 <!-- https://github-profile-trophy.vercel.app/?username=oriapp&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B -->
 <!-- https://github-profile-trophy.vercel.app/?username=oriapp&column=6&rank=SSS,SS,S,AAA,AA,A,B,C -->
-  <img alig src="https://github-profile-trophy.vercel.app/?username=oriapp&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
   
 
 
@@ -46,6 +45,8 @@ const oriapp = {
 -->
 
 <p align=center>
+    <img src="https://github-profile-trophy.vercel.app/?username=oriapp&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+    <br>
   <img height="150px" src="https://github-readme-stats.vercel.app/api?username=oriapp&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriapp&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
 </p>
