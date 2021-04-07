@@ -41,7 +41,14 @@ const oriapp = {
   
 
 
+<!-- 
 ![Ori Apps's github stats](https://github-readme-stats.vercel.app/api?username=oriapp&include_all_commits&show_icons=true&theme=tokyonight)
+-->
+
+<p align=center>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=oriapp&show_icons=true&theme=tokyonight&hide_title=true&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriapp&layout=compact&hide=html,Makefile&text_color=daf7dc&bg_color=151515" />
+</p>
 <br>
 
 
