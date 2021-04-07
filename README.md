@@ -35,8 +35,10 @@ const oriapp = {
 ```
 
 <br>
-
-  <img alig src="https://github-profile-trophy.vercel.app/?username=oriapp&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
+<!-- https://github-profile-trophy.vercel.app/?username=oriapp&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B -->
+<!-- https://github-profile-trophy.vercel.app/?username=oriapp&column=6&rank=SSS,SS,S,AAA,AA,A,B,C -->
+  <img alig src="https://github-profile-trophy.vercel.app/?username=oriapp&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
+  
 
 
 ![Ori Apps's github stats](https://github-readme-stats.vercel.app/api?username=oriapp&include_all_commits&show_icons=true&theme=tokyonight)
