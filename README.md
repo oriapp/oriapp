@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Science-related projects**
 
-- 👨‍💻 All of my projects are available at [oriappel.me](oriappel.me)
+- 👨‍💻 All of my projects are available at [oriappel.me](https://oriappel.me/)
 
 - 💬 Ask me about **Laravel**
 
