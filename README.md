@@ -46,6 +46,6 @@
 
 ![Oriapp's github streak](https://github-readme-streak-stats.herokuapp.com/?user=oriapp&theme=blue-green)
 
-[![Sparkline](https://stars.medv.io/laravel/laravel.svg)]()
+[![Sparkline](https://stars.medv.io/laravel/laravel.svg)](#)
 
 </center>
