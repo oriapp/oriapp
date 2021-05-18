@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/oriapple" target="blank"><img src="https://img.shields.io/twitter/follow/oriapple?logo=twitter&style=for-the-badge" alt="oriapple" /></a> </p>
 
-<img src="http://www.hackthebox.eu/badge/image/320164" alt="Hack The Box">
+<img onclick="window.open('https://www.hackthebox.eu/profile/320164', '_blank');" src="http://www.hackthebox.eu/badge/image/320164" alt="Hack The Box">
 
 - 🔭 I’m currently working on [RickBot](rickbot.net)
 
