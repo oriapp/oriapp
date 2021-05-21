@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oriapp&label=Profile%20views&color=0e75b6&style=flat" alt="oriapp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oriapp" alt="oriapp" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oriapp" alt="oriapp" /></a> </p> -->
+
+<p align="lect"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oriapp&theme=alduin&column=3&margin-w=15&margin-h=15" alt="oriapp" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/oriapple" target="blank"><img src="https://img.shields.io/twitter/follow/oriapple?logo=twitter&style=for-the-badge" alt="oriapple" /></a> </p>
 
