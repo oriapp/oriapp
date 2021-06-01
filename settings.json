@@ -1,0 +1,76 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "jupyter.insidersChannel": "weekly",
+    "gitlens.views.repositories.location": "scm",
+    "gitlens.views.fileHistory.location": "explorer",
+    "gitlens.views.lineHistory.location": "explorer",
+    "gitlens.views.compare.location": "gitlens",
+    "gitlens.views.search.location": "gitlens",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "intelephense.diagnostics.undefinedClassConstants": false,
+    "intelephense.diagnostics.typeErrors": false,
+    "intelephense.diagnostics.undefinedConstants": false,
+    "intelephense.diagnostics.undefinedFunctions": false,
+    "intelephense.diagnostics.undefinedMethods": false,
+    "intelephense.diagnostics.undefinedProperties": false,
+    "intelephense.diagnostics.undefinedSymbols": false,
+    "intelephense.diagnostics.undefinedTypes": false,
+    "intelephense.diagnostics.undefinedVariables": false,
+    "intelephense.diagnostics.unexpectedTokens": false,
+    "workbench.startupEditor": "welcomePage",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "python.languageServer": "Microsoft",
+    "jupyter.interactiveWindowMode": "perFile",
+    "discode.webhook": "KEEP_DREAMING",
+    "discode.name": "R C N",
+    "VSCord.appName": "Visual Studio Code",
+    "VSCord.detailsIdle": "Sleeping at work",
+    "VSCord.detailsViewing": "Looking at {filename}",
+    "VSCord.detailsEditing": "In {filename} {problems} ",
+    "settingsSync.ignoredExtensions": [
+
+        "evenaven.discode"
+    ],
+    "workbench.iconTheme": "material-icon-theme",
+    "VSCord.largeImageIdle": "",
+    "VSCord.workspaceElapsedTime": true,
+    "discord.suppressNotifications": true,
+    "discord.lowerDetailsNoWorkspaceFound": "Editing single file | {file_size}",
+    "discord.lowerDetailsIdling": "Eating",
+    "discord.lowerDetailsEditing": "at {file_name} ({file_size})",
+    "discord.detailsIdling": "Sleeping at work",
+    "discord.smallImage": "Doin' stuff",
+    "discord.largeImageIdling": "😴😴😴",
+    "files.exclude": {
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.settings": true,
+        "**/.factorypath": true
+    },
+    "editor.fontSize": 17,
+    "editor.fontFamily": " 'JetBrains Mono', 'Fira Code', Hasklig, Consolas, 'Courier New', monospace",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Panda Syntax",
+    "workbench.preferredLightColorTheme": "GitHub Light",
+    "workbench.preferredDarkColorTheme": "Panda Syntax",
+    "backgroundCover.imagePath": "c:\\background\\856978.jpg",
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "[blade]": {
+        // https://marketplace.visualstudio.com/items?itemName=onecentlin.laravel-blade
+        // Laravel Blade Snippets
+        "editor.autoClosingBrackets": "always"
+    },
+    "redhat.telemetry.enabled": true,
+    "discord.removeRemoteRepository": true,
+    "terminal.integrated.cursorStyle": "line",
+    "security.workspace.trust.untrustedFiles": "open",
+    "blade.format.enable": true,
+    "phpSniffer.autoDetect": true,
+    "emmet.triggerExpansionOnTab": true,
+}
