@@ -11,7 +11,7 @@
 
 <img src="http://www.hackthebox.eu/badge/image/320164" alt="Hack The Box" onclick="window.open('anotherpage.html', '_blank');" />
 
-- 🔭 I’m currently working on [RickBot](rickbot.net)
+- 🔭 I’m currently working on [RickBot](https://rickbot.net)
 
 - 🌱 I’m currently learning **Java OOP**
 
