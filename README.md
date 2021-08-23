@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **Laravel**
 
-- 📫 How to reach me **info@rickbot.net**
+- 📫 How to reach me **ori.appelbaum@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
