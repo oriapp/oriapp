@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [RickBot](https://rickbot.net)
 
-- 🌱 I’m currently learning **Java OOP**
+- 🌱 I’m currently learning **Malware Analysis**
 
 - 🤝 I’m looking for help with **Science-related projects**
 
