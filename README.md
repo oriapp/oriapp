@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/oriapple" target="blank"><img src="https://img.shields.io/twitter/follow/oriapple?logo=twitter&style=for-the-badge" alt="oriapple" /></a> </p>
 
 <img src="http://www.hackthebox.eu/badge/image/320164" alt="Hack The Box" onclick="window.open('anotherpage.html', '_blank');" />
+<a href="https://canary.discord.com/channels/@me/188418994527535104" target="_blank"> Discord Me! </a>
 
 - 🔭 I’m currently working on [RickBot](https://rickbot.net)
 
