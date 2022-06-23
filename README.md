@@ -16,10 +16,6 @@
 
 - 🌱 I’m currently learning **Geographic Information System (GIS)**
 
-- 🤝 I’m looking for help with **Science-related projects**
-
-- 💬 Ask me about **Laravel**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
