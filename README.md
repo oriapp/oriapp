@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on [RickBot](https://rickbot.net)
 
-- 🌱 I’m currently learning **Malware Analysis**
+- 🌱 I’m currently learning **Geographic Information System (GIS)**
 
 - 🤝 I’m looking for help with **Science-related projects**
 
