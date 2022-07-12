@@ -2,12 +2,6 @@
     "workbench.editorAssociations": {
         "*.ipynb": "jupyter-notebook"
     },
-    "jupyter.insidersChannel": "weekly",
-    "gitlens.views.repositories.location": "scm",
-    "gitlens.views.fileHistory.location": "explorer",
-    "gitlens.views.lineHistory.location": "explorer",
-    "gitlens.views.compare.location": "gitlens",
-    "gitlens.views.search.location": "gitlens",
     "diffEditor.ignoreTrimWhitespace": false,
     "intelephense.diagnostics.undefinedClassConstants": false,
     "intelephense.diagnostics.typeErrors": false,
@@ -19,30 +13,21 @@
     "intelephense.diagnostics.undefinedTypes": false,
     "intelephense.diagnostics.undefinedVariables": false,
     "intelephense.diagnostics.unexpectedTokens": false,
-    "workbench.startupEditor": "welcomePage",
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.languageServer": "Microsoft",
-    "jupyter.interactiveWindowMode": "perFile",
-    "discode.webhook": "KEEP_DREAMING",
+    "discode.webhook": "https://canary.discord.com/api/webhooks/none/none",
     "discode.name": "R C N",
-    "VSCord.appName": "Visual Studio Code",
-    "VSCord.detailsIdle": "Sleeping at work",
-    "VSCord.detailsViewing": "Looking at {filename}",
-    "VSCord.detailsEditing": "In {filename} {problems} ",
     "settingsSync.ignoredExtensions": [
 
         "evenaven.discode"
     ],
     "workbench.iconTheme": "material-icon-theme",
-    "VSCord.largeImageIdle": "",
-    "VSCord.workspaceElapsedTime": true,
     "discord.suppressNotifications": true,
     "discord.lowerDetailsNoWorkspaceFound": "Editing single file | {file_size}",
-    "discord.lowerDetailsIdling": "Eating",
+    "discord.lowerDetailsIdling": "Editing",
     "discord.lowerDetailsEditing": "at {file_name} ({file_size})",
-    "discord.detailsIdling": "Sleeping at work",
-    "discord.smallImage": "Doin' stuff",
+    "discord.detailsIdling": "Idle...",
+    "discord.smallImage": "this.state.discord.smallStatus",
     "discord.largeImageIdling": "😴😴😴",
     "files.exclude": {
         "**/.classpath": true,
@@ -50,12 +35,13 @@
         "**/.settings": true,
         "**/.factorypath": true
     },
-    "editor.fontSize": 17,
+    "editor.fontSize": 18,
+    "editor.cursorStyle": "block", // this is the annoying cursor :wink:
+    "editor.cursorSmoothCaretAnimation": true, // this is also kind of annoying haha
+    "editor.lineNumbers": "relative", // relative line counting
+    "terminal.integrated.cursorStyle": "block",
     "editor.fontFamily": " 'JetBrains Mono', 'Fira Code', Hasklig, Consolas, 'Courier New', monospace",
     "editor.fontLigatures": true,
-    "workbench.colorTheme": "Panda Syntax",
-    "workbench.preferredLightColorTheme": "GitHub Light",
-    "workbench.preferredDarkColorTheme": "Panda Syntax",
     "backgroundCover.imagePath": "c:\\background\\856978.jpg",
     "notebook.cellToolbarLocation": {
         "default": "right",
@@ -66,11 +52,51 @@
         // Laravel Blade Snippets
         "editor.autoClosingBrackets": "always"
     },
-    "redhat.telemetry.enabled": true,
-    "discord.removeRemoteRepository": true,
-    "terminal.integrated.cursorStyle": "line",
+    // "redhat.telemetry.enabled": true,
+    // "discord.removeRemoteRepository": true,
+    // "terminal.integrated.cursorStyle": "line",
     "security.workspace.trust.untrustedFiles": "open",
     "blade.format.enable": true,
     "phpSniffer.autoDetect": true,
     "emmet.triggerExpansionOnTab": true,
+    "phpSniffer.snippetExcludeSniffs": [
+        {
+            "[php]": {
+              "editor.defaultFormatter": "wongjn.php-sniffer"
+            }
+        },
+    ],
+    "oneDarkPro.vivid": true,
+    "oneDarkPro.bold": true,
+    "oneDarkPro.editorTheme": "oneDarkProFlat",
+    "remote.SSH.remotePlatform": {
+        "65.21.109.149": "linux"
+    },
+    "liveServer.settings.donotShowInfoMsg": true,
+    "backgroundCover.opacity": 1,
+    "workbench.colorTheme": "Bearded Theme Vivid Black",
+    "python.insidersChannel": "weekly",
+    "discord.detailsEditing": "Editing {workspace}",
+    "cmake.configureOnOpen": true,
+    "redhat.telemetry.enabled": true,
+    "bracketPairColorizer.depreciation-notice": false,
+    "editor.autoClosingBrackets": "always",
+    "window.zoomLevel": 2,
+    "jupyter.askForKernelRestart": false,
+
+    // rustc
+    "editor.tokenColorCustomizations": {
+        "[Theme Name]": {
+            "textMateRules": [
+                {
+                    "scope": "variable.other.rust",
+                    "settings": {
+                        "foreground": "#ffff00"
+                    }
+                }
+            ]
+        }
+    },
+    "go.toolsManagement.autoUpdate": true,
+    "editor.glyphMargin": true,
 }
