@@ -12,8 +12,6 @@
 <img src="http://www.hackthebox.eu/badge/image/320164" alt="Hack The Box" onclick="window.open('anotherpage.html', '_blank');" />
 <a href="https://discordapp.com/users/188418994527535104"> Discord Me! </a>
 
-- 🔭 I’m currently working on [RickBot](https://rickbot.net)
-
 - 🌱 I’m currently learning **Geographic Information System (GIS)**
 
 
