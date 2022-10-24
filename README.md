@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ori</h1>
 <h3 align="center">A passionate Full Stack engineer from Israel</h3>
 
+[![@rcn's Holopin board](https://holopin.me/rcn)](https://holopin.io/@rcn)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oriapp&label=Profile%20views&color=0e75b6&style=flat" alt="oriapp" /> </p>
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oriapp" alt="oriapp" /></a> </p> -->
