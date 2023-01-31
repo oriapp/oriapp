@@ -3,7 +3,8 @@
 
 <h5> I work on a x86 32-bit os, written in assembly and C (: </h5>
 
-![My Operating System](https://i.imgur.com/WmAthrl.png)
+![My Operating System](https://i.imgur.com/YR4xw3i.png)
+
 
 <img src="http://www.hackthebox.eu/badge/image/320164" alt="Hack The Box" onclick="window.open('anotherpage.html', '_blank');" />
 
