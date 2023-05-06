@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ori</h1>
 <h3 align="center">A passionate Full Stack/LL engineer</h3>
 
-<h5> I work on a x86 32-bit os, written in assembly and C (: </h5>
+<h5> Ich arbeite auf einem x86 32-Bit operating system, geschrieben in Assembly und C (: </h5>
 
 ![My Operating System](https://i.imgur.com/YR4xw3i.png)
 
