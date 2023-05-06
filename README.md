@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ori</h1>
-<h3 align="center">A passionate Full Stack/LL engineer</h3>
+<h1 align="center">Hallo 👋, I'm (Ich bin) Ori</h1>
+<h3 align="center">A passionate (Eine Leidenschaft) Full Stack/LL engineer</h3>
 
 <h5> Ich arbeite auf einem x86 32-Bit operating system, geschrieben in Assembly und C (: </h5>
 
