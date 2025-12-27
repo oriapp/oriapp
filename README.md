@@ -1,6 +1,7 @@
 <h1 align="center">Hi I'm Ori</h1>
 <h3 align="center">I like to research cool stuff</h3>
 
+I do some LL type💩
 ![My Operating System](https://i.imgur.com/YR4xw3i.png)
 
 
