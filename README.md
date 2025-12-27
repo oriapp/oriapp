@@ -1,7 +1,5 @@
-<h1 align="center">Hallo 👋, I'm (Ich bin) Ori</h1>
-<h3 align="center">A passionate (Eine Leidenschaft) Full Stack/LL engineer</h3>
-
-<h5> Ich arbeite auf einem x86 32-Bit operating system, geschrieben in Assembly und C (: </h5>
+<h1 align="center">Hi I'm Ori</h1>
+<h3 align="center">I like to research cool stuff</h3>
 
 ![My Operating System](https://i.imgur.com/YR4xw3i.png)
 
