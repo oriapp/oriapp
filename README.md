@@ -14,17 +14,3 @@
 <hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oriapp&label=Profile%20views&color=0e75b6&style=flat" alt="oriapp" /> </p>
-
-<center>
-
-  <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oriapp&show_icons=true&locale=en&layout=compact" alt="oriapp" /></p> -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oriapp&theme=blue-green" alt="oriapp" />
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oriapp&show_icons=true&locale=en" alt="oriapp" /></p> -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oriapp&theme=blue-green" alt="oriapp" /></p>
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oriapp&" alt="oriapp" /></p> -->
-
-![Oriapp's github streak](https://github-readme-streak-stats.herokuapp.com/?user=oriapp&theme=blue-green)
-
-</center>
